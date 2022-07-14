@@ -20,14 +20,3 @@ The output of the code should be:
 3) optimal alpha and beta values minimizing MAPE and the related MAD,MSE,MAPE values for this alpha and beta values
 
 You don't need to round F(t) and T(t) values you have calculated but you have to round FIT(t) values to the nearest integer.
-
-You may make this homework in groups of three. Only one group member may submit the code providing the names of the other group members.
-
-WARNING:
-The similar homeworks submitted by different groups, considered CHEATING and the ALL related groups will get NEGATIVE grades from this attempt. PROTECT YOUR PYTHON CODE, OR FACE THE CONSEQUENCES!
-
-IMPORTANT:
-This is a difficult homework so there is a one month duration until the deadline. But you should start this week to finish it.
-The weight of this homework will be more than regular lab assigment or quiz.
-
-This homework definition may be updated with more details please check here regularly.
